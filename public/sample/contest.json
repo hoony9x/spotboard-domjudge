@@ -1,7 +1,7 @@
 {
     "title" : "ACM-ICPC Asia Daejeon 2014",
-    "systemName" : "CSUS Programming Contest System",
-    "systemVersion" : "Version 9.2.3 20120910 (Monday, September 10th 2012 16:20 UTC) Java ver 1.7.0_72 build 2565 Linux 3.13.0-39-generic (i386) ",
+    "systemName" : "DOMjudge",
+    "systemVersion" : "Version 5.1.2",
     "problems" : [
         { "id" : 0, "name" : "A", "title" : "A", "color" : "violet" },
         { "id" : 1, "name" : "B", "title" : "B", "color" : "white" },

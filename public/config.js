@@ -2,7 +2,7 @@
  * Contest Configuration
  */
 
-feed_server_path = './sample/';
+feed_server_path = './api/';
 
 config =
 {

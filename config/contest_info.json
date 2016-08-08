@@ -1,0 +1,5 @@
+{
+  "contest_url": "YOUR_DOMJUDGE_BASE_URL",
+  "contest_id": "YOUR_DOMJUDGE_CONTEST_ID",
+  "contest_team_category_id": "YOUR_DOMJUDGE_TEAM_CATEGORY_ID"
+}
