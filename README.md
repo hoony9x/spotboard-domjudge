@@ -43,7 +43,7 @@ $ npm install
   - Fix 'connection closed' problem due to session timeout.
   - Deal with invalid submission (due to 'rejudge', 'ignore submission')
   - Ignore submissions with "TOO LATE" result.
-  - Deal with disqualified team. (Currently, if contest has disqualifed team, spotboard did not work.)
+  - Deal with disqualified team. (Currently, if contest has disqualifed team during the contest, spotboard did not work.)
   - And many problems not found yet(...).
 
 ## License
