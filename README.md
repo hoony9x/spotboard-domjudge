@@ -12,7 +12,7 @@ $ cd spotboard-domjudge
 $ npm install
 ```
 
-### How to use
+### Before start
   - Go to 'spotboard-domjudge/config' directory.
   - You can find 'contest_info.json' and 'user_info.json'.
   - In 'contest_info.json' you can see like this.
@@ -34,11 +34,18 @@ $ npm install
 ```
   - Note that 'id' must have 'jury' or 'admin' permission.
 
-## Other Documentation
+
+### Start 'Spotboard for DOMjudge' server
+  - Type below code
+```sh
+$ npm start
+```
+
+### Other Documentation
   - DOMjudge : https://www.domjudge.org/documentation
   - Spotboard : https://github.com/spotboard/spotboard
 
-## TODO
+### TODO
   - Allow multiple team category.
   - Fix 'connection closed' problem due to session timeout.
   - Deal with invalid submission (due to 'rejudge', 'ignore submission')
@@ -46,5 +53,5 @@ $ npm install
   - Deal with disqualified team. (Currently, if contest has disqualifed team during the contest, spotboard did not work.)
   - And many problems not found yet(...).
 
-## License
+### License
   - MIT License for only this project.
