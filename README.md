@@ -52,7 +52,7 @@ $ npm start
   - Ignore submissions with "TOO LATE" result.
   - Deal with disqualified team. (Currently, if contest has disqualifed team during the contest, spotboard did not work.)
   - And many problems not found yet(...).
-	- Trying to use 'grunt' or 'gulp' to make setup process more convenient.
+  - Trying to use 'grunt' or 'gulp' to make setup process more convenient.
 
 ### License
   - MIT License for only this project.
